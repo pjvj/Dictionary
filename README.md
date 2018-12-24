@@ -11,7 +11,7 @@ The libraries used are:
 ## Function findword()
 It is calculating the nears and probable suggestions based on edit distance=1 by performing 4 major transformations like transposing, substituting, removing, adding characters.
 It also maintains the frequency of the words that are feeded(selected from the suggested list) by the user.
-This frequency will be used to determine the future suggestions so that the higher frequency words will be suggested. Hence, frequency is used for self learning and analysis by the algorithm
+This frequency will be used to determine the future suggestions so that the higher frequency words will be suggested. Hence, frequency is used for self learning and analysis by the algorithm.
 
 ## Function delsearch()
 It will be used to delete the existed suggestions and display the result of the selected word from the suggestions.
